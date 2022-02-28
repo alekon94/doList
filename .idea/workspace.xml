@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4902abe-95ec-468e-9d33-0a2947c602e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XtBUrCCu44FcEaNZ88PkjJTv3e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="C:\Users\User\Desktop\Aliaksei_Kobzar\Tennis\modules" />
+      <recent name="C:\Users\User\Desktop\Aliaksei_Kobzar\Tennis" />
+      <recent name="C:\Users\User\Desktop\Aliaksei_Kobzar\Tennis\font-awesome-4.7.0" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4902abe-95ec-468e-9d33-0a2947c602e0" name="Default Changelist" comment="" />
+      <created>1581855528633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581855528633</updated>
+      <workItem from="1581855531014" duration="1234000" />
+      <workItem from="1582045596273" duration="2498000" />
+      <workItem from="1582128170420" duration="4714000" />
+      <workItem from="1582218312960" duration="4443000" />
+      <workItem from="1582547004429" duration="600000" />
+      <workItem from="1582557377302" duration="13612000" />
+      <workItem from="1582655466250" duration="6932000" />
+      <workItem from="1582697478124" duration="8269000" />
+      <workItem from="1582832504989" duration="776000" />
+      <workItem from="1582911352491" duration="2933000" />
+      <workItem from="1583002096338" duration="3587000" />
+      <workItem from="1583089758562" duration="1248000" />
+      <workItem from="1583158461639" duration="7322000" />
+      <workItem from="1583230113515" duration="8069000" />
+      <workItem from="1583262005119" duration="31187000" />
+      <workItem from="1583388448443" duration="2338000" />
+      <workItem from="1583422995843" duration="4264000" />
+      <workItem from="1583523785995" duration="7482000" />
+      <workItem from="1583865453564" duration="1514000" />
+      <workItem from="1583938120508" duration="48000" />
+      <workItem from="1583939122229" duration="14078000" />
+      <workItem from="1584018852436" duration="1142000" />
+      <workItem from="1584725785145" duration="138000" />
+      <workItem from="1584725947610" duration="26000" />
+      <workItem from="1584726397492" duration="199000" />
+      <workItem from="1585765620054" duration="1920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="851" y="390" key="FileChooserDialogImpl" timestamp="1584016069502">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="851" y="390" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1584016069502" />
+    <state x="178" y="66" key="SettingsEditor" timestamp="1583423173158">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="178" y="66" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1583423173158" />
+    <state x="773" y="355" width="667" height="476" key="find.popup" timestamp="1584018714835">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="773" y="355" width="667" height="476" key="find.popup/0.23.1440.808@0.23.1440.808" timestamp="1584018714835" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1583939344605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1583939344605" />
+  </component>
+</project>
